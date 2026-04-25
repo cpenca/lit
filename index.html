@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Original vs Improved Quiz</title>
+<style>
+body{margin:0;padding:32px 16px;font-family:Georgia,serif;background:#f7f3ea;color:#222}
+.wrap{max-width:980px;margin:auto}
+h1{text-align:center;font-weight:500}
+.intro,.progress{text-align:center;font-family:Arial,sans-serif;color:#6b6258}
+.choices{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px}
+.card{background:#fffaf1;border:1px solid #d8cdbc;border-radius:18px;padding:20px;cursor:pointer;white-space:pre-line;line-height:1.55}
+.card.selected{background:#e3f0ea;border:2px solid #2f5d50}
+.controls{display:flex;justify-content:center;gap:12px;margin-top:24px}
+button{border:0;border-radius:999px;padding:12px 22px;background:#2f5d50;color:white;cursor:pointer}
+button:disabled{opacity:.45}
+.hidden{display:none}
+.result{background:#fffaf1;border:1px solid #d8cdbc;border-radius:18px;padding:18px;margin:18px 0}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.box{background:white;border:1px solid #d8cdbc;border-radius:14px;padding:14px;white-space:pre-line;line-height:1.55}
+.label{font-family:Arial,sans-serif;text-transform:uppercase;font-size:.75rem;letter-spacing:.1em;color:#6b6258;margin-bottom:8px}
+@media(max-width:760px){.choices,.compare{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<section id="quizView">
+<h1>Pick your favorite version</h1>
+<p class="intro">The original is mixed with three altered versions. Pick the one you prefer.</p>
+<p class="progress" id="progress"></p>
+<div class="choices" id="choices"></div>
+<div class="controls"><button id="next" disabled>Next</button></div>
+</section>
+<section id="finalView" class="hidden">
+<h1>Results</h1>
+<div id="results"></div>
+</section>
+</div>
+<script>
+let data=[], current=0, selections=[], options=[];
+const $=id=>document.getElementById(id);
+function shuffle(a){return [...a].sort(()=>Math.random()-0.5)}
+async function loadData(){
+  const res=await fetch('quiz_data.json');
+  data=await res.json();
+  render();
+}
+function makeOptions(q){
+  return shuffle([{id:q.id+'_original',text:q.original,isOriginal:true},...q.improvements.map(x=>({...x,isOriginal:false}))]);
+}
+function render(){
+  const q=data[current];
+  options=makeOptions(q);
+  $('progress').textContent=`Question ${current+1} of ${data.length}`;
+  $('choices').innerHTML='';
+  $('next').disabled=true;
+  options.forEach(opt=>{
+    const div=document.createElement('div');
+    div.className='card';
+    div.textContent=opt.text;
+    div.onclick=()=>{
+      document.querySelectorAll('.card').forEach(c=>c.classList.remove('selected'));
+      div.classList.add('selected');
+      selections[current]={questionId:q.id,title:q.title,choice:opt.text,choiceIsOriginal:opt.isOriginal,original:q.original};
+      $('next').disabled=false;
+    };
+    $('choices').appendChild(div);
+  });
+}
+$('next').onclick=()=>{
+  current++;
+  if(current<data.length) render();
+  else showResults();
+};
+function showResults(){
+  $('quizView').classList.add('hidden');
+  $('finalView').classList.remove('hidden');
+  $('results').innerHTML=selections.map((s,i)=>`
+    <div class="result">
+      <h3>${i+1}. ${s.title} ${s.choiceIsOriginal ? '(you chose the original)' : ''}</h3>
+      <div class="compare">
+        <div class="box"><div class="label">Your choice</div>${escapeHtml(s.choice)}</div>
+        <div class="box"><div class="label">Original</div>${escapeHtml(s.original)}</div>
+      </div>
+    </div>`).join('');
+}
+function escapeHtml(str){
+  return str.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+}
+loadData();
+</script>
+</body>
+</html>

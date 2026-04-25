@@ -1,0 +1,192 @@
+[
+  {
+    "id": "q01",
+    "title": "Example 1",
+    "original": "Next time what I'd do is look at\nthe earth before saying anything. I'd stop\njust before going into a house\nand be an emperor for a minute\nand listen better to the wind\nor to the air being still.",
+    "improvements": [
+      {
+        "id": "q01_i01",
+        "text": "Next time I would look at\nthe earth before saying anything. I would pause\njust before going into a house\nand be an emperor for a minute\nand listen more closely to the wind\nor to the air being still."
+      },
+      {
+        "id": "q01_i02",
+        "text": "Next time what I would do is look at\nthe earth before I spoke. I would stop\njust before entering a house\nand be an emperor for a minute\nand listen better to the wind\nor to the still air."
+      },
+      {
+        "id": "q01_i03",
+        "text": "Next time I would look first at\nthe earth before saying anything. I would wait\njust before going into a house\nand be an emperor for a minute\nand listen better to the wind\nor to the air holding still."
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "title": "Example 2",
+    "original": "We slowly drove—He knew no haste\nAnd I had put away\nMy labor and my leisure too,\nFor His Civility",
+    "improvements": [
+      {
+        "id": "q02_i01",
+        "text": "We slowly drove. He knew no haste\nAnd I had set aside\nMy labor and my leisure too,\nFor his Civility"
+      },
+      {
+        "id": "q02_i02",
+        "text": "We moved along. He knew no haste\nAnd I had put away\nMy labor and my leisure both,\nFor his Civility"
+      },
+      {
+        "id": "q02_i03",
+        "text": "We slowly went. He did not hurry\nAnd I had laid away\nMy labor and my leisure too,\nFor his Civility"
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "title": "Example 3",
+    "original": "She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order",
+    "improvements": [
+      {
+        "id": "q03_i01",
+        "text": "She is a friend of my mind. She gathers me, man. The pieces I am, she gathers them and gives them back to me in all the right order"
+      },
+      {
+        "id": "q03_i02",
+        "text": "She is a friend to my mind. She gather me, man. The pieces I am, she gather them and return them to me in all the right order"
+      },
+      {
+        "id": "q03_i03",
+        "text": "She is a friend of my mind. She puts me together, man. The pieces I am, she gathers them and gives them back to me in all the right order"
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "title": "Example 4",
+    "original": "Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds t\nhem to their way, clear \nin the ancient faith: what we need \nis here.",
+    "improvements": [
+      {
+        "id": "q04_i01",
+        "text": "Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds \nthem to their way, clear \nin the ancient faith: what we need \nis here."
+      },
+      {
+        "id": "q04_i02",
+        "text": "Geese pass high over us, \nand the sky closes. Abandon, \nas in love or sleep, keeps \nthem to their way, clear \nin the ancient faith: what we need \nis here."
+      },
+      {
+        "id": "q04_i03",
+        "text": "Geese appear high above us, \npass, and the sky closes. Abandon, \nas in love or sleep, carries \nthem to their way, clear \nin the ancient faith: what we need \nis here."
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "title": "Example 5",
+    "original": "At length, she lay beside him like a burden laid down at evening which must be picked up once more in the morning.",
+    "improvements": [
+      {
+        "id": "q05_i01",
+        "text": "At length, she lay beside him like a burden set down at evening which must be picked up once more in the morning."
+      },
+      {
+        "id": "q05_i02",
+        "text": "At last, she lay beside him like a burden laid down at evening which must be lifted once more in the morning."
+      },
+      {
+        "id": "q05_i03",
+        "text": "At length, she lay beside him like a weight laid down at evening which must be picked up again in the morning."
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "title": "Example 6",
+    "original": "Sometimes I see something so moving I know I’m not supposed to linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave.",
+    "improvements": [
+      {
+        "id": "q06_i01",
+        "text": "Sometimes I see something so moving I know I should not linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave."
+      },
+      {
+        "id": "q06_i02",
+        "text": "Sometimes I see something so moving I know I am not meant to stay. See it and leave. If you stay too long, you use up the wordless shock. Love it and trust it and leave."
+      },
+      {
+        "id": "q06_i03",
+        "text": "Sometimes I see something so moving I know not to linger. See it and leave. If you stay too long, the wordless shock wears thin. Love it and trust it and leave."
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "title": "Example 7",
+    "original": "How often have I lain beneath rain on a strange roof, thinking of home.",
+    "improvements": [
+      {
+        "id": "q07_i01",
+        "text": "How often have I lain under rain on a strange roof, thinking of home."
+      },
+      {
+        "id": "q07_i02",
+        "text": "How often have I lain beneath rain on an unfamiliar roof, thinking of home."
+      },
+      {
+        "id": "q07_i03",
+        "text": "How often have I lain beneath rain on a strange roof, my mind returning home."
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "title": "Example 8",
+    "original": "Every life is in many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves.",
+    "improvements": [
+      {
+        "id": "q08_i01",
+        "text": "Every life is made of many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, lovers, but always meeting ourselves."
+      },
+      {
+        "id": "q08_i02",
+        "text": "Every life is in many days, day by day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves."
+      },
+      {
+        "id": "q08_i03",
+        "text": "Every life passes through many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, lovers, but always meeting ourselves."
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "title": "Example 9",
+    "original": "She had the perpetual sense, as she watched the taxi cabs, of being out, out, far out to sea and alone; she always had the feeling that it was very, very, dangerous to live even one day.",
+    "improvements": [
+      {
+        "id": "q09_i01",
+        "text": "She had the constant sense, as she watched the taxi cabs, of being out, out, far out to sea and alone; she always had the feeling that it was very, very dangerous to live even one day."
+      },
+      {
+        "id": "q09_i02",
+        "text": "She had the perpetual sense, as she watched the taxi cabs, of being out, far out to sea and alone; she always had the feeling that it was very, very dangerous to live even one day."
+      },
+      {
+        "id": "q09_i03",
+        "text": "She had the perpetual sense, as she watched the taxis, of being out, out, far out to sea and alone; she always had the feeling that it was terribly dangerous to live even one day."
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "title": "Example 10",
+    "original": "It doesn't matter what people call you unless they call you pigeon pie and eat you up",
+    "improvements": [
+      {
+        "id": "q10_i01",
+        "text": "It does not matter what people call you unless they call you pigeon pie and eat you up"
+      },
+      {
+        "id": "q10_i02",
+        "text": "It doesn't matter what people call you unless they call you pigeon pie and mean to eat you up"
+      },
+      {
+        "id": "q10_i03",
+        "text": "It doesn't matter what anyone calls you unless they call you pigeon pie and eat you up"
+      }
+    ]
+  }
+]
