@@ -1,192 +1,142 @@
 [
-  {
-    "id": "q01",
-    "title": "Example 1",
-    "original": "Next time what I'd do is look at\nthe earth before saying anything. I'd stop\njust before going into a house\nand be an emperor for a minute\nand listen better to the wind\nor to the air being still.",
-    "improvements": [
-      {
-        "id": "q01_i01",
-        "text": "Next time what I'd do is look at\nthe earth before saying anything. I'd pause\njust before going into a house\nand be an emperor for a minute\nand listen better to the wind\nor to the air being still."
-      },
-      {
-        "id": "q01_i02",
-        "text": "Next time I would look at\nthe earth before speaking. I would stop\njust before entering a house\nand be an emperor for a minute\nand listen more closely to the wind\nor to the still air."
-      },
-      {
-        "id": "q01_i03",
-        "text": "Next time I would turn first\nto the earth before I said anything. I would wait\noutside a house for a moment\nand let myself be an emperor\nand listen, really listen, to the wind\nor to the quiet of the air."
-      }
-    ]
-  },
-  {
-    "id": "q02",
-    "title": "Example 2",
-    "original": "We slowly drove\u2014He knew no haste\nAnd I had put away\nMy labor and my leisure too,\nFor His Civility",
-    "improvements": [
-      {
-        "id": "q02_i01",
-        "text": "We slowly drove\u2014He knew no haste\nAnd I had set away\nMy labor and my leisure too,\nFor His Civility"
-      },
-      {
-        "id": "q02_i02",
-        "text": "We slowly drove. He knew no hurry\nand I had put aside\nmy labor and my leisure too\nfor his civility."
-      },
-      {
-        "id": "q02_i03",
-        "text": "We moved along at his pace, unhurried,\nand I let go of both work and idleness\nfor the sake of his quiet civility."
-      }
-    ]
-  },
-  {
-    "id": "q03",
-    "title": "Example 3",
-    "original": "She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order",
-    "improvements": [
-      {
-        "id": "q03_i01",
-        "text": "She is a friend of my mind. She gathers me, man. The pieces I am, she gathers them and gives them back to me in all the right order"
-      },
-      {
-        "id": "q03_i02",
-        "text": "She is a friend to my mind. She gathers me. The pieces I am, she brings them together and returns them in the right order"
-      },
-      {
-        "id": "q03_i03",
-        "text": "She is a friend of my mind. She puts me back together. What I am in pieces, she finds and fits back into place."
-      }
-    ]
-  },
-  {
-    "id": "q04",
-    "title": "Example 4",
-    "original": "Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds t\nhem to their way, clear \nin the ancient faith: what we need \nis here.",
-    "improvements": [
-      {
-        "id": "q04_i01",
-        "text": "Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds them \nto their way, clear \nin the ancient faith: what we need \nis here."
-      },
-      {
-        "id": "q04_i02",
-        "text": "Geese pass high above us,\nand the sky closes behind them. Abandon,\nas in sleep or love, keeps them to their path,\nclear in the old belief\nthat what we need\nis here."
-      },
-      {
-        "id": "q04_i03",
-        "text": "Geese cross high overhead and vanish,\nthe sky sealing after them. Something like love,\nor sleep, keeps them on their way,\nheld by an old faith\nthat what we need\nis already here."
-      }
-    ]
-  },
-  {
-    "id": "q05",
-    "title": "Example 5",
-    "original": "At length, she lay beside him like a burden laid down at evening which must be picked up once more in the morning.",
-    "improvements": [
-      {
-        "id": "q05_i01",
-        "text": "At length, she lay beside him like a burden laid down at evening that must be picked up once more in the morning."
-      },
-      {
-        "id": "q05_i02",
-        "text": "At last she lay beside him, like something set down at dusk that would have to be lifted again in the morning."
-      },
-      {
-        "id": "q05_i03",
-        "text": "In the end she lay beside him as if she were a weight set down for the night, one that would have to be taken up again come morning."
-      }
-    ]
-  },
-  {
-    "id": "q06",
-    "title": "Example 6",
-    "original": "Sometimes I see something so moving I know I\u2019m not supposed to linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave.",
-    "improvements": [
-      {
-        "id": "q06_i01",
-        "text": "Sometimes I see something so moving I know I\u2019m not meant to linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave."
-      },
-      {
-        "id": "q06_i02",
-        "text": "Sometimes I see something so moving I know I should not stay. See it and go. Stay too long and the wordless shock begins to fade. Love it, trust it, and leave."
-      },
-      {
-        "id": "q06_i03",
-        "text": "Sometimes something stops me cold and I know I cannot stay. I have to see it and go. If I linger, the shock drains away. Better to love it, trust it, and move on."
-      }
-    ]
-  },
-  {
-    "id": "q07",
-    "title": "Example 7",
-    "original": "How often have I lain beneath rain on a strange roof, thinking of home.",
-    "improvements": [
-      {
-        "id": "q07_i01",
-        "text": "How often have I lain beneath rain on a strange roof, thinking of home"
-      },
-      {
-        "id": "q07_i02",
-        "text": "How many times have I lain under the rain on an unfamiliar roof, thinking of home."
-      },
-      {
-        "id": "q07_i03",
-        "text": "How often I have found myself under rain on a strange roof, my mind drifting back to home."
-      }
-    ]
-  },
-  {
-    "id": "q08",
-    "title": "Example 8",
-    "original": "Every life is in many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves.",
-    "improvements": [
-      {
-        "id": "q08_i01",
-        "text": "Every life is in many days, day after day. We walk through ourselves meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves."
-      },
-      {
-        "id": "q08_i02",
-        "text": "A life is made of many days, one after another. We move through ourselves, meeting robbers, ghosts, giants, the old and the young, wives, widows, lovers, but always ourselves."
-      },
-      {
-        "id": "q08_i03",
-        "text": "Life stretches across days, one after another, and as we pass through them we encounter everything within us, robbers, ghosts, giants, and always, in the end, ourselves."
-      }
-    ]
-  },
-  {
-    "id": "q09",
-    "title": "Example 9",
-    "original": "She had the perpetual sense, as she watched the taxi cabs, of being out, out, far out to sea and alone; she always had the feeling that it was very, very, dangerous to live even one day.",
-    "improvements": [
-      {
-        "id": "q09_i01",
-        "text": "She had the perpetual sense, as she watched the taxi cabs, of being out, far out to sea and alone; she always had the feeling that it was very, very dangerous to live even one day."
-      },
-      {
-        "id": "q09_i02",
-        "text": "As she watched the taxis, she felt as though she were far out at sea, alone, and that it was very dangerous to live even a single day."
-      },
-      {
-        "id": "q09_i03",
-        "text": "Watching the cabs pass, she felt adrift, as if she were far out at sea, alone, with the constant sense that simply living, even for a day, was a dangerous thing."
-      }
-    ]
-  },
-  {
-    "id": "q10",
-    "title": "Example 10",
-    "original": "It doesn't matter what people call you unless they call you pigeon pie and eat you up",
-    "improvements": [
-      {
-        "id": "q10_i01",
-        "text": "It doesn't matter what people call you unless they call you pigeon pie and eat you"
-      },
-      {
-        "id": "q10_i02",
-        "text": "It does not matter what people call you unless they call you pigeon pie and mean to eat you up"
-      },
-      {
-        "id": "q10_i03",
-        "text": "What people call you means nothing unless the name is pigeon pie and they intend to eat you."
-      }
-    ]
-  }
+{
+"id":"q01",
+"title":"Example 1",
+"original":"Next time what I'd do is look at\nthe earth before saying anything. I'd stop\njust before going into a house\nand be an emperor for a minute\nand listen better to the wind\nor to the air being still.",
+"improvements":[
+{"id":"q01_i01","text":"Next time what I'd do is look at\nthe earth before saying anything. I'd pause\njust before going into a house\nand be an emperor for a minute\nand listen more closely to the wind\nor to the still air."},
+{"id":"q01_i02","text":"Next time I would look at\nthe earth before I spoke. I would stop\njust before entering a house\nand be an emperor for a minute\nand listen more carefully to the wind\nor to the quiet air."},
+{"id":"q01_i03","text":"Next time I would turn first to the earth\nbefore saying anything. I would wait\noutside a house for a moment\nand let myself be an emperor\nand listen fully to the wind\nor to the silence of the air."}
+]
+},
+
+{
+"id":"q02",
+"title":"Example 2",
+"original":"We slowly drove—He knew no haste\nAnd I had put away\nMy labor and my leisure too,\nFor His Civility",
+"improvements":[
+{"id":"q02_i01","text":"We slowly drove—He knew no haste\nAnd I had set aside\nMy labor and my leisure too,\nFor his civility"},
+{"id":"q02_i02","text":"We drove slowly. He had no sense of hurry\nand I had put aside\nmy labor and my leisure as well\nfor his civility"},
+{"id":"q02_i03","text":"We moved along at his unhurried pace,\nand I let go of both work and idleness\nfor the sake of his quiet civility"}
+]
+},
+
+{
+"id":"q03",
+"title":"Example 3",
+"original":"She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order",
+"improvements":[
+{"id":"q03_i01","text":"She is a friend of my mind. She gathers me, man. The pieces I am, she gathers them and gives them back to me in the right order"},
+{"id":"q03_i02","text":"She is a friend to my mind. She gathers me. The pieces I am, she brings them together and returns them in their proper order"},
+{"id":"q03_i03","text":"She is a friend of my mind. She puts me back together. What I am in pieces, she finds and restores into place"}
+]
+},
+
+{
+"id":"q04",
+"title":"Example 4",
+"original":"Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds t\nhem to their way, clear \nin the ancient faith: what we need \nis here.",
+"improvements":[
+{"id":"q04_i01","text":"Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds them\nto their way, clear \nin the ancient faith: what we need \nis here."},
+{"id":"q04_i02","text":"Geese pass high above us,\nand the sky closes behind them. Abandon,\nas in sleep or love, keeps them to their path,\nclear in the old belief\nthat what we need\nis here."},
+{"id":"q04_i03","text":"Geese cross high overhead and vanish,\nthe sky sealing after them. Something like love,\nor sleep, keeps them on their way,\nheld by an old faith\nthat what we need\nis already here."}
+]
+},
+
+{
+"id":"q05",
+"title":"Example 5",
+"original":"At length, she lay beside him like a burden laid down at evening which must be picked up once more in the morning.",
+"improvements":[
+{"id":"q05_i01","text":"At length, she lay beside him like a burden set down at evening that must be picked up again in the morning."},
+{"id":"q05_i02","text":"At last she lay beside him, like something put down at dusk that would have to be lifted again in the morning."},
+{"id":"q05_i03","text":"In the end she lay beside him as if she were a weight set down for the night, one that would have to be taken up again come morning."}
+]
+},
+
+{
+"id":"q06",
+"title":"Example 6",
+"original":"Sometimes I see something so moving I know I’m not supposed to linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave.",
+"improvements":[
+{"id":"q06_i01","text":"Sometimes I see something so moving I know I should not linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave."},
+{"id":"q06_i02","text":"Sometimes I see something so moving I know I should not stay. See it and go. Stay too long and the wordless shock begins to fade. Love it, trust it, and leave."},
+{"id":"q06_i03","text":"Sometimes something stops me cold and I know I cannot remain. I have to see it and move on. If I linger, the shock drains away. Better to love it, trust it, and go."}
+]
+},
+
+{
+"id":"q07",
+"title":"Example 7",
+"original":"How often have I lain beneath rain on a strange roof, thinking of home.",
+"improvements":[
+{"id":"q07_i01","text":"How often have I lain beneath rain on a strange roof, thinking of home"},
+{"id":"q07_i02","text":"How many times have I lain under rain on an unfamiliar roof, thinking of home."},
+{"id":"q07_i03","text":"How often I have found myself under rain on a strange roof, my thoughts drifting back home."}
+]
+},
+
+{
+"id":"q08",
+"title":"Example 8",
+"original":"Every life is in many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves.",
+"improvements":[
+{"id":"q08_i01","text":"Every life is in many days, day after day. We walk through ourselves meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves."},
+{"id":"q08_i02","text":"A life is made of many days, one after another. We move through ourselves meeting robbers, ghosts, giants, the old and the young, wives, widows, lovers, but always ourselves."},
+{"id":"q08_i03","text":"Life stretches across days, one after another, and as we pass through them we encounter everything within us, robbers, ghosts, giants, and always, in the end, ourselves."}
+]
+},
+
+{
+"id":"q09",
+"title":"Example 9",
+"original":"She had the perpetual sense, as she watched the taxi cabs, of being out, out, far out to sea and alone; she always had the feeling that it was very, very, dangerous to live even one day.",
+"improvements":[
+{"id":"q09_i01","text":"She had the perpetual sense, as she watched the taxi cabs, of being out, far out to sea and alone; she always felt it was very, very dangerous to live even one day."},
+{"id":"q09_i02","text":"As she watched the taxis, she felt herself far out at sea, alone, and believed it was very dangerous to live even a single day."},
+{"id":"q09_i03","text":"Watching the cabs pass, she felt adrift, far out at sea and alone, with the constant sense that simply living, even for a day, was dangerous."}
+]
+},
+
+{
+"id":"q10",
+"title":"Example 10",
+"original":"It doesn't matter what people call you unless they call you pigeon pie and eat you up",
+"improvements":[
+{"id":"q10_i01","text":"It doesn't matter what people call you unless they call you pigeon pie and eat you"},
+{"id":"q10_i02","text":"It does not matter what people call you unless they call you pigeon pie and mean to eat you up"},
+{"id":"q10_i03","text":"What people call you means nothing unless the name is pigeon pie and they intend to eat you"}
+]
+}, 
+  
+{
+"id":"q11",
+"title":"Example 11",
+"original":"I never saw a wild thing sorry for itself. A small bird will drop frozen dead from a bough without ever having felt sorry for itself.",
+"improvements":[
+{"id":"q11_i01","text":"I have never seen a wild thing feel sorry for itself. A small bird will drop frozen from a branch without ever having known self-pity."},
+{"id":"q11_i02","text":"No wild thing I have seen ever turns to self-pity. A small bird may fall frozen from a branch and never once have felt sorry for itself."},
+{"id":"q11_i03","text":"I have never known a wild creature to pity itself. A small bird can fall, frozen, from a branch having never once felt sorry for itself."}
+]
+},
+
+{
+"id":"q12",
+"title":"Example 12",
+"original":"It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.",
+"improvements": [
+{
+"id": "q11_i01",
+"text": "It kills the very good and the very gentle and the very brave without distinction. If you are none of these, you can be sure it will kill you too, though there will be no special hurry."
+},
+{
+"id": "q11_i02",
+"text": "It takes the good, the gentle, and the brave alike. And if you are none of these, it will take you as well, only without any particular haste."
+},
+{
+"id": "q11_i03",
+"text": "It does not choose. It takes the good, the gentle, the brave. And if you are none of these, it will take you just the same, only more slowly."
+}
+]
+},
 ]
