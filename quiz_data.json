@@ -70,7 +70,7 @@
 "title":"Example 7",
 "original":"How often have I lain beneath rain on a strange roof, thinking of home.",
 "improvements":[
-{"id":"q07_i01","text":"How often have I lain beneath rain on a strange roof, thinking of home"},
+{"id":"q07_i01","text":"How often have I lain beneath rain on a strange roof, thinking of home."},
 {"id":"q07_i02","text":"How many times have I lain under rain on an unfamiliar roof, thinking of home."},
 {"id":"q07_i03","text":"How often I have found myself under rain on a strange roof, my thoughts drifting back home."}
 ]
