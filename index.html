@@ -74,16 +74,31 @@ $('next').onclick=()=>{
   else showResults();
 };
 function showResults(){
+  const correctCount = selections.filter(s => s.choiceIsOriginal).length;
+
   $('quizView').classList.add('hidden');
   $('finalView').classList.remove('hidden');
-  $('results').innerHTML=selections.map((s,i)=>`
-    <div class="result">
-      <h3>${i+1}. ${s.title} ${s.choiceIsOriginal ? '(you chose the original)' : ''}</h3>
-      <div class="compare">
-        <div class="box"><div class="label">Your choice</div>${escapeHtml(s.choice)}</div>
-        <div class="box"><div class="label">Original</div>${escapeHtml(s.original)}</div>
+
+  $('results').innerHTML = `
+    <h2 style="text-align:center;">
+      You correctly identified ${correctCount} out of ${data.length} originals
+    </h2>
+    ${selections.map((s,i)=>`
+      <div class="result">
+        <h3>${i+1}. ${s.title} ${s.choiceIsOriginal ? '(correct)' : ''}</h3>
+        <div class="compare">
+          <div class="box">
+            <div class="label">Your choice</div>
+            ${escapeHtml(s.choice)}
+          </div>
+          <div class="box">
+            <div class="label">Original</div>
+            ${escapeHtml(s.original)}
+          </div>
+        </div>
       </div>
-    </div>`).join('');
+    `).join('')}
+  `;
 }
 function escapeHtml(str){
   return str.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
