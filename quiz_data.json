@@ -126,16 +126,17 @@
 "original":"It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.",
 "improvements": [
 {
-"id": "q11_i01",
+"id": "q12_i01",
 "text": "It kills the very good and the very gentle and the very brave without distinction. If you are none of these, you can be sure it will kill you too, though there will be no special hurry."
 },
 {
-"id": "q11_i02",
+"id": "q12_i02",
 "text": "It takes the good, the gentle, and the brave alike. And if you are none of these, it will take you as well, only without any particular haste."
 },
 {
-"id": "q11_i03",
+"id": "q12_i03",
 "text": "It does not choose. It takes the good, the gentle, the brave. And if you are none of these, it will take you just the same, only more slowly."
-}
+}  
 ]
+}
 ]
