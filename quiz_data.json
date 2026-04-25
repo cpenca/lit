@@ -6,34 +6,34 @@
     "improvements": [
       {
         "id": "q01_i01",
-        "text": "Next time I would look at\nthe earth before saying anything. I would pause\njust before going into a house\nand be an emperor for a minute\nand listen more closely to the wind\nor to the air being still."
+        "text": "Next time what I'd do is look at\nthe earth before saying anything. I'd pause\njust before going into a house\nand be an emperor for a minute\nand listen better to the wind\nor to the air being still."
       },
       {
         "id": "q01_i02",
-        "text": "Next time what I would do is look at\nthe earth before I spoke. I would stop\njust before entering a house\nand be an emperor for a minute\nand listen better to the wind\nor to the still air."
+        "text": "Next time I would look at\nthe earth before speaking. I would stop\njust before entering a house\nand be an emperor for a minute\nand listen more closely to the wind\nor to the still air."
       },
       {
         "id": "q01_i03",
-        "text": "Next time I would look first at\nthe earth before saying anything. I would wait\njust before going into a house\nand be an emperor for a minute\nand listen better to the wind\nor to the air holding still."
+        "text": "Next time I would turn first\nto the earth before I said anything. I would wait\noutside a house for a moment\nand let myself be an emperor\nand listen, really listen, to the wind\nor to the quiet of the air."
       }
     ]
   },
   {
     "id": "q02",
     "title": "Example 2",
-    "original": "We slowly drove—He knew no haste\nAnd I had put away\nMy labor and my leisure too,\nFor His Civility",
+    "original": "We slowly drove\u2014He knew no haste\nAnd I had put away\nMy labor and my leisure too,\nFor His Civility",
     "improvements": [
       {
         "id": "q02_i01",
-        "text": "We slowly drove. He knew no haste\nAnd I had set aside\nMy labor and my leisure too,\nFor his Civility"
+        "text": "We slowly drove\u2014He knew no haste\nAnd I had set away\nMy labor and my leisure too,\nFor His Civility"
       },
       {
         "id": "q02_i02",
-        "text": "We moved along. He knew no haste\nAnd I had put away\nMy labor and my leisure both,\nFor his Civility"
+        "text": "We slowly drove. He knew no hurry\nand I had put aside\nmy labor and my leisure too\nfor his civility."
       },
       {
         "id": "q02_i03",
-        "text": "We slowly went. He did not hurry\nAnd I had laid away\nMy labor and my leisure too,\nFor his Civility"
+        "text": "We moved along at his pace, unhurried,\nand I let go of both work and idleness\nfor the sake of his quiet civility."
       }
     ]
   },
@@ -48,11 +48,11 @@
       },
       {
         "id": "q03_i02",
-        "text": "She is a friend to my mind. She gather me, man. The pieces I am, she gather them and return them to me in all the right order"
+        "text": "She is a friend to my mind. She gathers me. The pieces I am, she brings them together and returns them in the right order"
       },
       {
         "id": "q03_i03",
-        "text": "She is a friend of my mind. She puts me together, man. The pieces I am, she gathers them and gives them back to me in all the right order"
+        "text": "She is a friend of my mind. She puts me back together. What I am in pieces, she finds and fits back into place."
       }
     ]
   },
@@ -63,15 +63,15 @@
     "improvements": [
       {
         "id": "q04_i01",
-        "text": "Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds \nthem to their way, clear \nin the ancient faith: what we need \nis here."
+        "text": "Geese appear high over us, \npass, and the sky closes. Abandon, \nas in love or sleep, holds them \nto their way, clear \nin the ancient faith: what we need \nis here."
       },
       {
         "id": "q04_i02",
-        "text": "Geese pass high over us, \nand the sky closes. Abandon, \nas in love or sleep, keeps \nthem to their way, clear \nin the ancient faith: what we need \nis here."
+        "text": "Geese pass high above us,\nand the sky closes behind them. Abandon,\nas in sleep or love, keeps them to their path,\nclear in the old belief\nthat what we need\nis here."
       },
       {
         "id": "q04_i03",
-        "text": "Geese appear high above us, \npass, and the sky closes. Abandon, \nas in love or sleep, carries \nthem to their way, clear \nin the ancient faith: what we need \nis here."
+        "text": "Geese cross high overhead and vanish,\nthe sky sealing after them. Something like love,\nor sleep, keeps them on their way,\nheld by an old faith\nthat what we need\nis already here."
       }
     ]
   },
@@ -82,34 +82,34 @@
     "improvements": [
       {
         "id": "q05_i01",
-        "text": "At length, she lay beside him like a burden set down at evening which must be picked up once more in the morning."
+        "text": "At length, she lay beside him like a burden laid down at evening that must be picked up once more in the morning."
       },
       {
         "id": "q05_i02",
-        "text": "At last, she lay beside him like a burden laid down at evening which must be lifted once more in the morning."
+        "text": "At last she lay beside him, like something set down at dusk that would have to be lifted again in the morning."
       },
       {
         "id": "q05_i03",
-        "text": "At length, she lay beside him like a weight laid down at evening which must be picked up again in the morning."
+        "text": "In the end she lay beside him as if she were a weight set down for the night, one that would have to be taken up again come morning."
       }
     ]
   },
   {
     "id": "q06",
     "title": "Example 6",
-    "original": "Sometimes I see something so moving I know I’m not supposed to linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave.",
+    "original": "Sometimes I see something so moving I know I\u2019m not supposed to linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave.",
     "improvements": [
       {
         "id": "q06_i01",
-        "text": "Sometimes I see something so moving I know I should not linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave."
+        "text": "Sometimes I see something so moving I know I\u2019m not meant to linger. See it and leave. If you stay too long, you wear out the wordless shock. Love it and trust it and leave."
       },
       {
         "id": "q06_i02",
-        "text": "Sometimes I see something so moving I know I am not meant to stay. See it and leave. If you stay too long, you use up the wordless shock. Love it and trust it and leave."
+        "text": "Sometimes I see something so moving I know I should not stay. See it and go. Stay too long and the wordless shock begins to fade. Love it, trust it, and leave."
       },
       {
         "id": "q06_i03",
-        "text": "Sometimes I see something so moving I know not to linger. See it and leave. If you stay too long, the wordless shock wears thin. Love it and trust it and leave."
+        "text": "Sometimes something stops me cold and I know I cannot stay. I have to see it and go. If I linger, the shock drains away. Better to love it, trust it, and move on."
       }
     ]
   },
@@ -120,15 +120,15 @@
     "improvements": [
       {
         "id": "q07_i01",
-        "text": "How often have I lain under rain on a strange roof, thinking of home."
+        "text": "How often have I lain beneath rain on a strange roof, thinking of home"
       },
       {
         "id": "q07_i02",
-        "text": "How often have I lain beneath rain on an unfamiliar roof, thinking of home."
+        "text": "How many times have I lain under the rain on an unfamiliar roof, thinking of home."
       },
       {
         "id": "q07_i03",
-        "text": "How often have I lain beneath rain on a strange roof, my mind returning home."
+        "text": "How often I have found myself under rain on a strange roof, my mind drifting back to home."
       }
     ]
   },
@@ -139,15 +139,15 @@
     "improvements": [
       {
         "id": "q08_i01",
-        "text": "Every life is made of many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, lovers, but always meeting ourselves."
+        "text": "Every life is in many days, day after day. We walk through ourselves meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves."
       },
       {
         "id": "q08_i02",
-        "text": "Every life is in many days, day by day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves."
+        "text": "A life is made of many days, one after another. We move through ourselves, meeting robbers, ghosts, giants, the old and the young, wives, widows, lovers, but always ourselves."
       },
       {
         "id": "q08_i03",
-        "text": "Every life passes through many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, lovers, but always meeting ourselves."
+        "text": "Life stretches across days, one after another, and as we pass through them we encounter everything within us, robbers, ghosts, giants, and always, in the end, ourselves."
       }
     ]
   },
@@ -158,15 +158,15 @@
     "improvements": [
       {
         "id": "q09_i01",
-        "text": "She had the constant sense, as she watched the taxi cabs, of being out, out, far out to sea and alone; she always had the feeling that it was very, very dangerous to live even one day."
-      },
-      {
-        "id": "q09_i02",
         "text": "She had the perpetual sense, as she watched the taxi cabs, of being out, far out to sea and alone; she always had the feeling that it was very, very dangerous to live even one day."
       },
       {
+        "id": "q09_i02",
+        "text": "As she watched the taxis, she felt as though she were far out at sea, alone, and that it was very dangerous to live even a single day."
+      },
+      {
         "id": "q09_i03",
-        "text": "She had the perpetual sense, as she watched the taxis, of being out, out, far out to sea and alone; she always had the feeling that it was terribly dangerous to live even one day."
+        "text": "Watching the cabs pass, she felt adrift, as if she were far out at sea, alone, with the constant sense that simply living, even for a day, was a dangerous thing."
       }
     ]
   },
@@ -177,15 +177,15 @@
     "improvements": [
       {
         "id": "q10_i01",
-        "text": "It does not matter what people call you unless they call you pigeon pie and eat you up"
+        "text": "It doesn't matter what people call you unless they call you pigeon pie and eat you"
       },
       {
         "id": "q10_i02",
-        "text": "It doesn't matter what people call you unless they call you pigeon pie and mean to eat you up"
+        "text": "It does not matter what people call you unless they call you pigeon pie and mean to eat you up"
       },
       {
         "id": "q10_i03",
-        "text": "It doesn't matter what anyone calls you unless they call you pigeon pie and eat you up"
+        "text": "What people call you means nothing unless the name is pigeon pie and they intend to eat you."
       }
     ]
   }
